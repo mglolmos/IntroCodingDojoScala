@@ -1,5 +1,4 @@
 # IntroCodingDojoScala
-===============
 
 Skeleton for scalabcn coding-dojo: http://www.meetup.com/Scala-Developers-Barcelona/events/225493548/
 
